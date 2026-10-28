@@ -1,0 +1,32 @@
+# Dependencies and build output
+**/node_modules/
+**/dist/
+**/coverage/
+**/*.log
+npm-debug.log*
+
+# Environment and secrets
+**/.env
+**/.env.*
+!**/.env.example
+**/secrets/
+*.pfx
+*.p12
+*.pem
+*.key
+
+# Local database files and backups
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+Desktop.ini
