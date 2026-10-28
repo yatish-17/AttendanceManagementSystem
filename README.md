@@ -14,6 +14,12 @@ and check-out times.
 - Attendance reports with filters and CSV export.
 - Employee dashboard, personal attendance history, and profile pages.
 
+## Project documentation
+
+[Download the Word project documentation](docs/Attendance_Management_System_Project_Documentation.docx)
+for the system overview, architecture, data model, workflows, API, and
+implementation scope.
+
 ## Screenshots
 
 ### Administrator
